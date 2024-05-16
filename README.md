@@ -1,5 +1,8 @@
 # 💫 About Me:
-👩‍💻I'm a Software Engineering Student with a passion for Biology 🧬 and Problem Solving 🔓<br>📈I'm currently learning AI, Machine/ Deep/ Reinforcement Learning
+👩‍💻I'm a Software Engineering Student with a passion for Biology 🧬 and Problem Solving 🔓
+<br>🎖I'm officially TensorFlow Certified 🎖
+<br>📈I'm currently learning AI, Machine/ Deep/ Reinforcement Learning
+
 
 
 ## 🌐 Socials:
