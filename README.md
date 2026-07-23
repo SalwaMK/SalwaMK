@@ -98,29 +98,31 @@
       <p>Startup project — building connected product experiences.</p>
     </td>
     <td width="50%" valign="top">
+      <h3>☏ <a href="https://github.com/SalwaMK/Orkestrix">Orkestrix</a></h3>
+      <p>Track your SaaS subscriptions and AI spend in one place. </p>
+    </td>
+    
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>↗ <a href="https://github.com/SalwaMK/Risk-Aware-RL-Portfolio-Optimization">Risk-Aware RL Portfolio</a></h3>
       <p>Risk-aware reinforcement learning for portfolio optimization.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⌁ <a href="https://github.com/SalwaMK/MITRE-ATLAS">MITRE ATLAS</a></h3>
       <p>Research and tooling aligned with the MITRE ATLAS knowledge base.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>◎ <a href="https://github.com/SalwaMK/FootballPredictionSystem">Football Predictor</a></h3>
       <p>Match outcome predictions with ML and historical data.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>✚ <a href="https://github.com/SalwaMK/LungCareAI">Lung Care AI</a></h3>
       <p>CNN-powered medical imaging support for lung disease detection.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>☏ <a href="https://github.com/SalwaMK/Chatbot-Multilingual-Interactive">Multilingual Chatbot</a></h3>
-      <p>Interactive conversational AI with NLP and Google APIs.</p>
-    </td>
+    
   </tr>
 </table>
 
@@ -140,11 +142,9 @@
 <hr/>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SalwaMK&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  
   <br/><br/>
-  <sub>⚡ Powered by curiosity & coffee | Salwa Mekni ⚡</sub>
+  <sub>⚡ Powered by curiosity & passion | Salwa Mekni ⚡</sub>
 </div>
 
 
