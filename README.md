@@ -2,6 +2,7 @@
 
   <!-- TOP ANIMATION -->
   <img src="coding.gif" width="100%" height="160" alt="Coding Animation Banner" style="border-radius: 12px; max-height: 160px; object-fit: cover; margin-bottom: 15px;" />
+
   <br/>
 
   <!-- TYPING BANNER -->
@@ -19,7 +20,6 @@
     <a href="https://github.com/SalwaMK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://medium.com/@salwamk"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
     <a href="https://www.youtube.com/@salwa_mekni"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
-    <a href="mailto:salwamekni8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
 </div>
@@ -32,13 +32,13 @@
     <td width="60%" valign="top">
       <h2>💫 About Me</h2>
       <p>
-        👩‍💻 I'm a <b>Software Engineer</b> with a passion for <b>Biology 🧬</b> and <b>Problem Solving 🔓</b>.
+        👩‍💻 I'm a <b>Software Engineer</b> with a passion for <b>AI 🤖</b>, <b>Math 🧮</b>, and <b>Problem Solving 🔓</b>.
       </p>
       <p>
         🎖️ <b>Officially TensorFlow Certified Developer</b><br/>
         🚀 <b>CEO & Founder</b> of <a href="https://github.com/SalwaMK">ConneXtream</a><br/>
         📈 Currently learning & researching <b>AI, Machine / Deep / Reinforcement Learning</b><br/>
-        🐧 Linux Enthusiast <i>(I use CachyOS)</i><br/>
+        🐧 Linux Enthusiast<br/>
         📍 Based in Sousse, Tunisia
       </p>
       <p>
@@ -54,33 +54,33 @@
 <hr/>
 
 <!-- TECH STACK & INVENTORY -->
-<h2>💻 Tech Stack & Inventory</h2>
+<h2>✦ Tech Stack & Inventory</h2>
 
 <p align="center">
-  <b>Core & Languages:</b><br/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <b>CORE STACK — MY GO-TO TOOLS:</b><br/><br/>
+  <img src="https://img.shields.io/badge/AI_Research_/_ML_/_DL_/_RL-8A2BE2?style=for-the-badge" alt="AI Research"/>
+  <img src="https://img.shields.io/badge/Python_%26_Data-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python & Data"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub"/>
+  <img src="https://img.shields.io/badge/SQL_%26_PL%2FSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL & PL/SQL"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 <p align="center">
-  <b>AI, Machine Learning & Data Science:</b><br/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-</p>
-
-<p align="center">
-  <b>Frameworks, Databases & Ecosystem:</b><br/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <b>SUPPORTING ABILITIES:</b><br/><br/>
+  <img src="https://img.shields.io/badge/React_%26_TypeScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React & TypeScript"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/CLI_Coding_Agents-4A154B?style=for-the-badge" alt="CLI Coding Agents"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-FF69B4?style=for-the-badge" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/NLP-6F42C1?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-008080?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Agile_Collaboration-0052CC?style=for-the-badge" alt="Agile Collaboration"/>
 </p>
 
 <hr/>
