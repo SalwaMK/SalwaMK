@@ -13,7 +13,7 @@
   <p align="center"><div align="center">
 
   <!-- TOP ANIMATION -->
-  <img src="assets/coding.gif" width="100%" height="160" alt="Coding Animation Banner" style="border-radius: 12px; max-height: 160px; object-fit: cover; margin-bottom: 15px;" />
+  <img src="coding.gif" width="100%" height="160" alt="Coding Animation Banner" style="border-radius: 12px; max-height: 160px; object-fit: cover; margin-bottom: 15px;" />
 
   <br/>
 
