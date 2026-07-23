@@ -59,7 +59,7 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/anime.gif" width="100%" alt="Anime Coding" style="border-radius: 10px;" />
+      <img src="anime.gif" width="100%" alt="Anime Coding" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
