@@ -1,15 +1,5 @@
 <div align="center">
 
-  <!-- TOP ANIMATION -->
-  <img src="coding.gif" width="100%" height="160" alt="Coding Animation Banner" style="border-radius: 12px; max-height: 160px; object-fit: cover; margin-bottom: 15px;" />
-
-  <br/>
-
-  <!-- TYPING BANNER -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=9B51E0&center=true&vcenter=true&width=550&height=50&lines=HEY%2C+I'M+SALWA!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;SOFTWARE+ENGINEER+%7C+AI+RESEARCHER;CEO+%26+FOUNDER+%40+CONNEXTREAM;OFFICIALLY+TENSORFLOW+CERTIFIED+%F0%9F%8E%96" alt="Typing SVG" />
-  </a>
-
   <p align="center"><div align="center">
 
   <!-- TOP ANIMATION -->
